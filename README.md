@@ -34,4 +34,7 @@ Where:
 - **γ** → recovery rate  
 
 ---
+## Overview results
+
+<img width="748" height="690" alt="image" src="https://github.com/user-attachments/assets/fcc99d5b-0618-49cc-9099-75ffa44753e3" />
 
